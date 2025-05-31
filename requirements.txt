@@ -1,0 +1,10 @@
+streamlit
+solana
+websockets
+tweepy
+torch
+transformers
+numpy
+pandas
+flask
+requests 

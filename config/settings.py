@@ -1,0 +1,1 @@
+# Ayar dosyası (örnek) 
